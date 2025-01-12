@@ -1,2 +1,0 @@
-# Status
-Status of script
