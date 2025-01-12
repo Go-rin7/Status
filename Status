@@ -7,4 +7,4 @@ Blox fruit:💚
 script:loadstring(game:HttpGet("https://raw.githubusercontent.com/Go-rin7/Blox-fruit/refs/heads/main/Main%20Script"))()
 
 Fisch:💚
-script:loadstring(game:HttpGet("https://github.com/Go-rin7/Fisch/blob/main/Main%20script"))()
+script:loadstring(game:HttpGet("https://raw.githubusercontent.com/Go-rin7/Fisch/refs/heads/main/Main%20script"))()
