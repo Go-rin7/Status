@@ -2,10 +2,13 @@
 💛:đang update script
 🧡:đang fix bug
 ❤️:không hoạt động
-🖤:đã xóa
+🖤:không còn update
 
 Blox fruit:🖤
 script:loadstring(game:HttpGet("https://raw.githubusercontent.com/Go-rin7/Blox-fruit/refs/heads/main/Main%20Script"))()
 
 Fisch:🖤
 script:loadstring(game:HttpGet("https://raw.githubusercontent.com/Go-rin7/Fisch/refs/heads/main/Main%20script"))()
+
+Gờ rin:💚
+script:loadstring(game:HttpGet("https://raw.githubusercontent.com/Go-rin7/Go_rin-Hub/refs/heads/main/Main"))()
